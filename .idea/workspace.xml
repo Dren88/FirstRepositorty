@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80b416dc-4df6-4c0d-b984-595f2f1583bc" name="Default" comment="">
@@ -50,7 +50,11 @@
         <entry file="file://$USER_HOME$/AppData/Local/Temp/scp04760/www/new.flexsport.pro/ajax/productStoreAmount.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-520">
+<<<<<<< HEAD
               <caret line="79" column="33" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
+=======
+              <caret line="79" column="33" lean-forward="true" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
+>>>>>>> add-feature1
             </state>
           </provider>
         </entry>
@@ -59,7 +63,11 @@
         <entry file="file://$PROJECT_DIR$/file1.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="52">
+<<<<<<< HEAD
               <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+=======
+              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+>>>>>>> add-feature1
             </state>
           </provider>
         </entry>
@@ -212,7 +220,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="89884000" />
+=======
+    <option name="totallyTimeSpent" value="89778000" />
+>>>>>>> add-feature1
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="2" width="755" height="596" extended-state="0" />
@@ -588,7 +600,11 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/scp12851/www/new.flexsport.pro/bitrix/templates/aspro_next/components/bitrix/catalog.element/new_main/template.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
+<<<<<<< HEAD
           <caret line="229" column="19" selection-start-line="229" selection-start-column="19" selection-end-line="229" selection-end-column="19" />
+=======
+          <caret line="229" column="19" lean-forward="true" selection-start-line="229" selection-start-column="19" selection-end-line="229" selection-end-column="19" />
+>>>>>>> add-feature1
           <folding>
             <element signature="e#58940#59532#0#HTML" />
           </folding>
@@ -632,14 +648,22 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/scp04760/www/new.flexsport.pro/ajax/productStoreAmount.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-520">
+<<<<<<< HEAD
           <caret line="79" column="33" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
+=======
+          <caret line="79" column="33" lean-forward="true" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
+>>>>>>> add-feature1
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/file1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
+<<<<<<< HEAD
           <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+=======
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+>>>>>>> add-feature1
         </state>
       </provider>
     </entry>
