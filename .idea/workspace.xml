@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80b416dc-4df6-4c0d-b984-595f2f1583bc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/file1.php" beforeDir="false" afterPath="$PROJECT_DIR$/file1.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/scp12851/www/new.flexsport.pro/bitrix/templates/aspro_next/components/bitrix/catalog.element/new_main/template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="229" column="19" selection-start-line="229" selection-start-column="19" selection-end-line="229" selection-end-column="19" />
+              <folding>
+                <element signature="e#58940#59532#0#HTML" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="element_1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/scp55525/www/new.flexsport.pro/bitrix/templates/aspro_next/components/bitrix/catalog/main/page_blocks/element_1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="3" column="61" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="component_epilog.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/scp55607/www/new.flexsport.pro/bitrix/templates/aspro_next/components/bitrix/catalog.element/new_main/component_epilog.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46046">
+              <caret line="1700" column="43" selection-start-line="1700" selection-start-column="28" selection-end-line="1700" selection-end-column="43" />
+              <folding>
+                <element signature="e#169#192#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productStoreAmount.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/scp04760/www/new.flexsport.pro/ajax/productStoreAmount.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-520">
+              <caret line="79" column="33" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file1.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/file1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>id_trup_mark</find>
+      <find>markMKIPop</find>
+      <find>validatePrimary</find>
+      <find>$entity</find>
+      <find>imagecompress</find>
+      <find>getPrimaryArray</find>
+      <find>getEntity</find>
+      <find>model-content</find>
+      <find>model-count</find>
+      <find>item--price</find>
+      <find>$arResult</find>
+      <find>data-co</find>
+      <find>data-id=&quot;&lt;?= $arItem['ID</find>
+      <find>fast_buy js-addtocart bouquet-catalog__addToCart button_desctop</find>
+      <find>data-id=&quot;&lt;?=$arIte</find>
+      <find>data-id=&quot;&lt;?=$arItem['ID</find>
+      <find>composition_info bouquet-catalogue_hover</find>
+      <find>composition_info bouquet-catalog__parameters</find>
+      <find>id_trup_dop</find>
+      <find>catalog</find>
+      <find>fast_buy js-addtocart</find>
+      <find>model-block__item--dark</find>
+      <find>В наличии в</find>
+      <find>AVALIBLE_IN_OTHER_SHOPS</find>
+      <find>html</find>
+      <find>addToCart</find>
+      <find>card-container-header-color</find>
+      <find>model-item__block model-block</find>
+      <find>STORES_TAB</find>
+      <find>map_info_store</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/file2.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp36043/home/c/cvetolife/salonromashka.ru/public_html/delivery/index.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp38546/home/c/cvetolife/salonromashka.ru/public_html/delivery/index.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp35975/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/pixite/sale.order.ajax/main_v2/summary.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp36916/var/www/artegrim/data/www/arte-grim.ru/local/php_interface/functions.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp28093/var/www/artegrim/data/www/arte-grim.ru/.left.menu_ext.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp11636/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/section_vertical.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp12426/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/section.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp39302/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/footer.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp04590/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.section/flower/component_epilog.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp10778/home/c/cvetolife/c-baza.ru_new/public_html/catalog/index.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp45428/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.section/bouquet/template.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp06184/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.element/flower/component_epilog.php" />
+        <option value="$PROJECT_DIR$/file3.php" />
+        <option value="$PROJECT_DIR$/file4.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp55604/var/www/artegrim/data/www/arte-grim.ru/local/templates/artegrim/components/artegrim/catalog/main_catalog/bitrix/catalog.element/.default/result_modifier.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp20098/var/www/artegrim/data/www/arte-grim.ru/local/templates/artegrim/components/artegrim/catalog/main_catalog/bitrix/catalog.element/.default/template.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp48888/sdo-TEST/lk/request3.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp27864/sdo-TEST/lk/statkart/markGist.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp54246/sdo-TEST/lk/statkart/main_stat.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp01638/sdo-TEST/lk/statkart/markMKI.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp09590/var/www/artegrim/data/www/arte-grim.ru/bitrix/modules/main/lib/orm/data/datamanager.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp44687/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.section/the_brides_bouquet/template.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp55268/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog.section/bouquet_main/template.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp37742/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.section/bouquet/template.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp11529/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/header.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp31983/var/www/artegrim/data/www/arte-grim.ru/local/templates/artegrim/components/bitrix/menu/top_mobile/template.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp55607/www/new.flexsport.pro/bitrix/templates/aspro_next/components/bitrix/catalog.element/new_main/component_epilog.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp04760/www/new.flexsport.pro/ajax/productStoreAmount.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp12851/www/new.flexsport.pro/bitrix/templates/aspro_next/components/bitrix/catalog.element/new_main/template.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp55525/www/new.flexsport.pro/bitrix/templates/aspro_next/components/bitrix/catalog/main/page_blocks/element_1.php" />
+        <option value="$PROJECT_DIR$/file1.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="60" />
+    <option name="y" value="2" />
+    <option name="width" value="755" />
+    <option name="height" value="596" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test_progect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_progect" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80b416dc-4df6-4c0d-b984-595f2f1583bc" name="Default" comment="" />
+      <created>1628312382975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628312382975</updated>
+      <workItem from="1628312384790" duration="26297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="89884000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="60" y="2" width="755" height="596" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16402878" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32843137" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.47482014" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp36388/var/www/artegrim/data/www/arte-grim.ru/local/php_interface/init.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp22892/var/www/artegrim/data/www/arte-grim.ru/catalog/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5055" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp12841/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/sections.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp28093/var/www/artegrim/data/www/arte-grim.ru/.left.menu_ext.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="196" column="6" lean-forward="true" selection-start-line="196" selection-start-column="6" selection-end-line="196" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp35975/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/pixite/sale.order.ajax/main_v2/summary.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp04109/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.section/flower/result_modifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1305">
+          <caret line="33" column="175" selection-start-line="33" selection-start-column="170" selection-end-line="33" selection-end-column="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp36916/var/www/artegrim/data/www/arte-grim.ru/local/php_interface/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="564" column="5" lean-forward="true" selection-start-line="564" selection-start-column="5" selection-end-line="564" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp39302/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="329" column="2" selection-start-line="329" selection-start-column="2" selection-end-line="329" selection-end-column="2" />
+          <folding>
+            <element signature="e#13#46#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp48475/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.section/bouquet/result_modifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3239">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp10778/home/c/cvetolife/c-baza.ru_new/public_html/catalog/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="284" selection-start-line="284" selection-end-line="284" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp11636/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/section_vertical.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="62" column="18" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp06184/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.element/flower/component_epilog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="57" column="66" selection-start-line="57" selection-start-column="66" selection-end-line="57" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp48692/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.section/bouquet/component_epilog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp16007/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.element/flower/result_modifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="731" column="52" lean-forward="true" selection-start-line="731" selection-start-column="52" selection-end-line="731" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp06433/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.element/bouquet/component_epilog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="57" column="31" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp06161/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.element/bouquet/result_modifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="24" column="53" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp06432/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.element/bouquet/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="117" column="49" selection-start-line="117" selection-start-column="49" selection-end-line="117" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp45428/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.section/bouquet/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="83" column="95" lean-forward="true" selection-start-line="83" selection-start-column="95" selection-end-line="83" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp04939/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.section/flower/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="77" column="73" lean-forward="true" selection-start-line="77" selection-start-column="73" selection-end-line="77" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp12426/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="17" />
+          <folding>
+            <element signature="e#434#457#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp04590/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.section/flower/component_epilog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="76" lean-forward="true" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp57399/sdo-TEST/config/config.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp26736/var/www/artegrim/data/www/arte-grim.ru/local/templates/artegrim/ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2834">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp24586/var/www/artegrim/data/www/arte-grim.ru/include/rent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1274">
+          <caret line="47" column="78" selection-start-line="47" selection-start-column="78" selection-end-line="47" selection-end-column="78" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp50013/var/www/artegrim/data/www/arte-grim.ru/local/templates/artegrim/components/artegrim/catalog/main_catalog/bitrix/catalog.element/.default/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp55604/var/www/artegrim/data/www/arte-grim.ru/local/templates/artegrim/components/artegrim/catalog/main_catalog/bitrix/catalog.element/.default/result_modifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="211" column="7" selection-start-line="211" selection-start-column="7" selection-end-line="211" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp20098/var/www/artegrim/data/www/arte-grim.ru/local/templates/artegrim/components/artegrim/catalog/main_catalog/bitrix/catalog.element/.default/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="844" column="6" selection-start-line="844" selection-start-column="6" selection-end-line="844" selection-end-column="6" />
+          <folding>
+            <element signature="e#3019#10026#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp48888/sdo-TEST/lk/request3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="26" column="97" lean-forward="true" selection-start-line="26" selection-start-column="97" selection-end-line="26" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp27864/sdo-TEST/lk/statkart/markGist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="198" column="13" lean-forward="true" selection-start-line="198" selection-start-column="13" selection-end-line="198" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp54246/sdo-TEST/lk/statkart/main_stat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="64" column="41" selection-start-line="64" selection-start-column="41" selection-end-line="64" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp09590/var/www/artegrim/data/www/arte-grim.ru/bitrix/modules/main/lib/orm/data/datamanager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="598" column="55" lean-forward="true" selection-start-line="598" selection-start-column="55" selection-end-line="598" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp01638/sdo-TEST/lk/statkart/markMKI.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="78" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp45626/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.section/flower/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp37742/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.section/bouquet/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="324" column="74" lean-forward="true" selection-start-line="324" selection-start-column="74" selection-end-line="324" selection-end-column="74" />
+          <folding>
+            <element signature="e#15110#19533#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp44687/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog/catalog/bitrix/catalog.section/the_brides_bouquet/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="182" column="56" lean-forward="true" selection-start-line="182" selection-start-column="35" selection-end-line="182" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp55621/home/c/cvetolife/c-baza.ru_new/public_html/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="133" column="19" selection-start-line="133" selection-start-column="12" selection-end-line="133" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp55268/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/components/bitrix/catalog.section/bouquet_main/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="314" column="96" selection-start-line="314" selection-start-column="56" selection-end-line="314" selection-end-column="96" />
+          <folding>
+            <element signature="e#14976#19399#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp31983/var/www/artegrim/data/www/arte-grim.ru/local/templates/artegrim/components/bitrix/menu/top_mobile/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="89" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp02674/home/c/cvetolife/c-baza.ru_new/public_html/ajax/ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="170" column="21" selection-start-line="170" selection-start-column="13" selection-end-line="170" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp02488/home/c/cvetolife/c-baza.ru_new/public_html/ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="429" column="21" selection-start-line="429" selection-start-column="12" selection-end-line="429" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp11281/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+          <folding>
+            <element signature="e#13#46#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp11529/home/c/cvetolife/c-baza.ru_new/public_html/local/templates/main_v1/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="263" column="22" lean-forward="true" selection-start-line="263" selection-start-column="22" selection-end-line="263" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp14379/www/new.flexsport.pro/bitrix/templates/aspro_next/components/bitrix/catalog.element/new_main/lang/ru/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp12851/www/new.flexsport.pro/bitrix/templates/aspro_next/components/bitrix/catalog.element/new_main/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="229" column="19" selection-start-line="229" selection-start-column="19" selection-end-line="229" selection-end-column="19" />
+          <folding>
+            <element signature="e#58940#59532#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp55525/www/new.flexsport.pro/bitrix/templates/aspro_next/components/bitrix/catalog/main/page_blocks/element_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="61" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp55607/www/new.flexsport.pro/bitrix/templates/aspro_next/components/bitrix/catalog.element/new_main/component_epilog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46046">
+          <caret line="1700" column="43" selection-start-line="1700" selection-start-column="28" selection-end-line="1700" selection-end-column="43" />
+          <folding>
+            <element signature="e#169#192#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file2.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp04760/www/new.flexsport.pro/ajax/productStoreAmount.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-520">
+          <caret line="79" column="33" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
